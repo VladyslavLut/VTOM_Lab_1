@@ -1,0 +1,35 @@
+var number = 256
+var str = "ssssssss"
+var str2 = "sssss
+
+"
+""
+if (a > b)
+    max = a
+
+if (x <= 1) {
+    x = x + 1
+} else {
+    x = x - 1
+}
+
+
+var arr = []
+for (i = 0; i < 10; i++) {
+    arr[i] = i * i
+}
+
+var count = 0
+while (count < 100) {
+    count++
+}
+
+var numerator = 538
+var denominator = 2
+count = 0
+do {
+    numerator = numerator / denominator
+    count++
+} while (numerator > 1)
+
+var rrr1`1` = #-"
